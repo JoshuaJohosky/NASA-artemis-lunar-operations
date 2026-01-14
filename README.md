@@ -28,7 +28,6 @@ These proposals specifically target **NASA Artemis Camp** requirements for:
 ---
 
 ## About the Author
-**Joshua Johosky** *Systems Architect | Operations Leader* Building at the intersection of aerospace engineering, AI governance, and infrastructure design.
-
+**Joshua Johosky** *Systems Architect | Operations Leader* Architect of the New Future
 **Cognitive Archive:** [github.com/JoshuaJohosky/cognitive-archive](https://github.com/JoshuaJohosky/cognitive-archive)
 **Email:** joshjohosky@protonmail.com
